@@ -1,0 +1,27 @@
+container {
+	position: relative;
+	display: block;
+	width: 100%;
+}
+p {
+	position: relative;
+	margin: 0px;
+	padding: 5px;
+	width: 48%;
+	border: 5px solid;
+	display: inline-block;
+}
+p1 {
+	position: relative;
+	margin: 0px;
+	padding: 5px;
+	width: 48%;
+	border: 5px solid;
+	display: inline-block;
+}
+h2 {
+	
+	margin: 0px;
+	background: grey;
+	float: right;
+}
